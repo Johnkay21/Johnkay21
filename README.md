@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayeniko Johnson
 - 👀 I am a Frontene Web Developer
 - 🌱 I’m currently learning React(FrameWork)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m Open for Collaboration
 - Skills.
   Languages: [HTML, CSS, Javascript]
   Tools:     [VS Code]
